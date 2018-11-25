@@ -1445,7 +1445,7 @@ pre .javascript .function {
   transition-timing-function: ease-in-out;
   transition-delay: 0s;
   transition-property: border;
-  border-bottom: 1px dashed #ccc;
+  /* border-bottom: 1px dashed #ccc; */
 }
 .posts-collapse .post-header::before {
   content: " ";
