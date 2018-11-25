@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Joyce</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-11-25T09:29:59.218Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Joyce</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>grid布局</title>
+    <link href="http://yoursite.com/2018/11/25/grid%E5%B8%83%E5%B1%80/"/>
+    <id>http://yoursite.com/2018/11/25/grid布局/</id>
+    <published>2018-11-25T09:19:31.000Z</published>
+    <updated>2018-11-25T09:29:59.218Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Quick Start</title>
+    <link href="http://yoursite.com/2018/11/25/quick-start/"/>
+    <id>http://yoursite.com/2018/11/25/quick-start/</id>
+    <published>2018-11-25T09:11:07.471Z</published>
+    <updated>2018-11-25T09:11:07.471Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>增强代码可读性</title>
+    <link href="http://yoursite.com/2018/09/18/%E5%A2%9E%E5%BC%BA%E4%BB%A3%E7%A0%81%E5%8F%AF%E8%AF%BB%E6%80%A7/"/>
+    <id>http://yoursite.com/2018/09/18/增强代码可读性/</id>
+    <published>2018-09-18T09:32:02.000Z</published>
+    <updated>2018-11-25T09:11:07.474Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;词性和一致性&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>搭建简易服务器</title>
+    <link href="http://yoursite.com/2018/08/29/%E6%90%AD%E5%BB%BA%E7%AE%80%E6%98%93%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <id>http://yoursite.com/2018/08/29/搭建简易服务器/</id>
+    <published>2018-08-29T03:15:25.000Z</published>
+    <updated>2018-11-25T09:11:07.475Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="nodejs" scheme="http://yoursite.com/tags/nodejs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>命令行基础操作</title>
+    <link href="http://yoursite.com/2018/08/28/%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/"/>
+    <id>http://yoursite.com/2018/08/28/命令行基础操作/</id>
+    <published>2018-08-28T12:14:31.000Z</published>
+    <updated>2018-11-25T09:11:07.473Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;记下平时常用的命令&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="命令行" scheme="http://yoursite.com/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>面试题总结（一）</title>
+    <link href="http://yoursite.com/2018/08/27/%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>http://yoursite.com/2018/08/27/面试题总结（一）/</id>
+    <published>2018-08-27T10:46:21.000Z</published>
+    <updated>2018-11-25T09:11:07.475Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;考察了一些基础知识点&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CRM法入门node.js</title>
+    <link href="http://yoursite.com/2018/08/24/CRM%E6%B3%95%E5%85%A5%E9%97%A8node-js/"/>
+    <id>http://yoursite.com/2018/08/24/CRM法入门node-js/</id>
+    <published>2018-08-24T12:30:45.000Z</published>
+    <updated>2018-11-25T09:11:07.468Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;CRM套路入门node.js&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="nodejs" scheme="http://yoursite.com/tags/nodejs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>axios的使用</title>
+    <link href="http://yoursite.com/2018/08/23/axios%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>http://yoursite.com/2018/08/23/axios的使用/</id>
+    <published>2018-08-23T14:22:49.000Z</published>
+    <updated>2018-11-25T09:11:07.470Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;基于Vue搭建CNODE社区&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="axios" scheme="http://yoursite.com/tags/axios/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue-cli脚手架搭建项目</title>
+    <link href="http://yoursite.com/2018/08/23/vue-cli%E8%84%9A%E6%89%8B%E6%9E%B6%E6%90%AD%E5%BB%BA%E9%A1%B9%E7%9B%AE/"/>
+    <id>http://yoursite.com/2018/08/23/vue-cli脚手架搭建项目/</id>
+    <published>2018-08-23T10:14:24.000Z</published>
+    <updated>2018-11-25T09:11:07.472Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;项目搭建、目录结构分析及vue-router、Vuex的使用&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="vue-cli" scheme="http://yoursite.com/tags/vue-cli/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AJAX</title>
+    <link href="http://yoursite.com/2018/08/20/AJAX/"/>
+    <id>http://yoursite.com/2018/08/20/AJAX/</id>
+    <published>2018-08-20T14:34:01.000Z</published>
+    <updated>2018-11-25T09:11:07.467Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Ajax 的主要优势就是对页面的请求以异步的方式发送到服务器，而服务器不会以整个页面来响应请求，它会在后台处理，与此同时用户还能继续浏览页面并与页面交互。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="ajax" scheme="http://yoursite.com/tags/ajax/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安全：XSS和CSRF</title>
+    <link href="http://yoursite.com/2018/08/16/%E5%AE%89%E5%85%A8%EF%BC%9AXSS%E5%92%8CCSRF/"/>
+    <id>http://yoursite.com/2018/08/16/安全：XSS和CSRF/</id>
+    <published>2018-08-16T06:34:13.000Z</published>
+    <updated>2018-11-25T09:11:07.474Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;初次理解XSS和CSRF攻击&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>web前端性能优化</title>
+    <link href="http://yoursite.com/2018/08/14/web%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+    <id>http://yoursite.com/2018/08/14/web前端性能优化/</id>
+    <published>2018-08-14T07:00:46.000Z</published>
+    <updated>2018-11-25T09:11:07.472Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;从输入url到页面加载完成的过程分析前端可以做的优化&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="性能优化" scheme="http://yoursite.com/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何实现继承</title>
+    <link href="http://yoursite.com/2018/08/13/%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%BB%A7%E6%89%BF/"/>
+    <id>http://yoursite.com/2018/08/13/如何实现继承/</id>
+    <published>2018-08-13T09:02:55.000Z</published>
+    <updated>2018-11-25T09:11:07.474Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;ES5与ES6的两种写法&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="继承" scheme="http://yoursite.com/tags/%E7%BB%A7%E6%89%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue的双向绑定</title>
+    <link href="http://yoursite.com/2018/08/11/vue%E7%9A%84%E5%8F%8C%E5%90%91%E7%BB%91%E5%AE%9A/"/>
+    <id>http://yoursite.com/2018/08/11/vue的双向绑定/</id>
+    <published>2018-08-11T14:35:45.000Z</published>
+    <updated>2018-11-25T09:11:07.472Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;MVVM模式的体现&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="vue" scheme="http://yoursite.com/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue常见知识点</title>
+    <link href="http://yoursite.com/2018/08/11/vue%E5%B8%B8%E8%A7%81%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
+    <id>http://yoursite.com/2018/08/11/vue常见知识点/</id>
+    <published>2018-08-11T12:57:10.000Z</published>
+    <updated>2018-11-25T09:11:07.472Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;梳理知识点&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="vue" scheme="http://yoursite.com/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue组件通信</title>
+    <link href="http://yoursite.com/2018/08/11/Vue%E7%BB%84%E4%BB%B6%E9%80%9A%E4%BF%A1/"/>
+    <id>http://yoursite.com/2018/08/11/Vue组件通信/</id>
+    <published>2018-08-11T11:48:19.000Z</published>
+    <updated>2018-11-25T09:11:07.469Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;父子、兄弟组件间传值方式&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="vue" scheme="http://yoursite.com/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>异步编程的方式</title>
+    <link href="http://yoursite.com/2018/08/10/%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B%E7%9A%84%E6%96%B9%E5%BC%8F/"/>
+    <id>http://yoursite.com/2018/08/10/异步编程的方式/</id>
+    <published>2018-08-10T13:32:46.000Z</published>
+    <updated>2018-11-25T09:11:07.475Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Promise的用法&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="异步" scheme="http://yoursite.com/tags/%E5%BC%82%E6%AD%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你不知道的JS——闭包再理解</title>
+    <link href="http://yoursite.com/2018/08/05/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JS%E2%80%94%E2%80%94%E9%97%AD%E5%8C%85%E5%86%8D%E7%90%86%E8%A7%A3/"/>
+    <id>http://yoursite.com/2018/08/05/你不知道的JS——闭包再理解/</id>
+    <published>2018-08-05T05:15:44.000Z</published>
+    <updated>2018-11-25T09:11:07.473Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;你不知道的Javascript上卷中再次回顾闭包的概念&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="闭包" scheme="http://yoursite.com/tags/%E9%97%AD%E5%8C%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>作用域及闭包</title>
+    <link href="http://yoursite.com/2018/08/05/%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%8F%8A%E9%97%AD%E5%8C%85/"/>
+    <id>http://yoursite.com/2018/08/05/作用域及闭包/</id>
+    <published>2018-08-05T05:10:13.000Z</published>
+    <updated>2018-11-25T09:11:07.473Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;执行上下文环境到作用域再到闭包&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="作用域 闭包" scheme="http://yoursite.com/tags/%E4%BD%9C%E7%94%A8%E5%9F%9F-%E9%97%AD%E5%8C%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>响应式布局及动态rem</title>
+    <link href="http://yoursite.com/2018/08/03/%E5%93%8D%E5%BA%94%E5%BC%8F%E5%B8%83%E5%B1%80%E5%8F%8A%E5%8A%A8%E6%80%81rem/"/>
+    <id>http://yoursite.com/2018/08/03/响应式布局及动态rem/</id>
+    <published>2018-08-03T08:54:20.000Z</published>
+    <updated>2018-11-25T09:11:07.474Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;移动端适配及动态rem方案&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="响应式 rem" scheme="http://yoursite.com/tags/%E5%93%8D%E5%BA%94%E5%BC%8F-rem/"/>
+    
+  </entry>
+  
+</feed>
