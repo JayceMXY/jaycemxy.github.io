@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-25T14:14:29.448Z</updated>
+  <updated>2018-11-27T09:55:54.594Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>git操作命令</title>
+    <link href="http://yoursite.com/2018/11/26/git%E6%93%8D%E4%BD%9C%E5%91%BD%E4%BB%A4/"/>
+    <id>http://yoursite.com/2018/11/26/git操作命令/</id>
+    <published>2018-11-26T03:42:28.000Z</published>
+    <updated>2018-11-27T09:55:54.594Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>grid布局</title>
     <link href="http://yoursite.com/2018/11/25/grid%E5%B8%83%E5%B1%80/"/>
     <id>http://yoursite.com/2018/11/25/grid布局/</id>
     <published>2018-11-25T09:19:31.000Z</published>
-    <updated>2018-11-25T14:14:29.448Z</updated>
+    <updated>2018-11-27T09:55:58.631Z</updated>
     
     <summary type="html">
     
@@ -44,7 +63,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -60,7 +79,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;词性和一致性&lt;br&gt;
+      &lt;p&gt;词性和一致性&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -97,7 +116,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;记下平时常用的命令&lt;br&gt;
+      &lt;p&gt;记下平时常用的命令&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -115,7 +134,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;考察了一些基础知识点&lt;br&gt;
+      &lt;p&gt;考察了一些基础知识点&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -131,7 +150,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;CRM套路入门node.js&lt;br&gt;
+      &lt;p&gt;CRM套路入门node.js&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -149,7 +168,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;基于Vue搭建CNODE社区&lt;br&gt;
+      &lt;p&gt;基于Vue搭建CNODE社区&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -167,7 +186,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;项目搭建、目录结构分析及vue-router、Vuex的使用&lt;br&gt;
+      &lt;p&gt;项目搭建、目录结构分析及vue-router、Vuex的使用&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -185,7 +204,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;Ajax 的主要优势就是对页面的请求以异步的方式发送到服务器，而服务器不会以整个页面来响应请求，它会在后台处理，与此同时用户还能继续浏览页面并与页面交互。&lt;br&gt;
+      &lt;p&gt;Ajax 的主要优势就是对页面的请求以异步的方式发送到服务器，而服务器不会以整个页面来响应请求，它会在后台处理，与此同时用户还能继续浏览页面并与页面交互。&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -203,7 +222,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;初次理解XSS和CSRF攻击&lt;br&gt;
+      &lt;p&gt;初次理解XSS和CSRF攻击&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -219,7 +238,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;从输入url到页面加载完成的过程分析前端可以做的优化&lt;br&gt;
+      &lt;p&gt;从输入url到页面加载完成的过程分析前端可以做的优化&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -237,7 +256,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;ES5与ES6的两种写法&lt;br&gt;
+      &lt;p&gt;ES5与ES6的两种写法&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -255,7 +274,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;MVVM模式的体现&lt;br&gt;
+      &lt;p&gt;MVVM模式的体现&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -273,7 +292,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;梳理知识点&lt;br&gt;
+      &lt;p&gt;梳理知识点&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -291,7 +310,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;父子、兄弟组件间传值方式&lt;br&gt;
+      &lt;p&gt;父子、兄弟组件间传值方式&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -309,7 +328,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;Promise的用法&lt;br&gt;
+      &lt;p&gt;Promise的用法&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -327,7 +346,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;你不知道的Javascript上卷中再次回顾闭包的概念&lt;br&gt;
+      &lt;p&gt;你不知道的Javascript上卷中再次回顾闭包的概念&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -345,30 +364,12 @@
     
     <summary type="html">
     
-      &lt;p&gt;执行上下文环境到作用域再到闭包&lt;br&gt;
+      &lt;p&gt;执行上下文环境到作用域再到闭包&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
     
       <category term="作用域 闭包" scheme="http://yoursite.com/tags/%E4%BD%9C%E7%94%A8%E5%9F%9F-%E9%97%AD%E5%8C%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>响应式布局及动态rem</title>
-    <link href="http://yoursite.com/2018/08/03/%E5%93%8D%E5%BA%94%E5%BC%8F%E5%B8%83%E5%B1%80%E5%8F%8A%E5%8A%A8%E6%80%81rem/"/>
-    <id>http://yoursite.com/2018/08/03/响应式布局及动态rem/</id>
-    <published>2018-08-03T08:54:20.000Z</published>
-    <updated>2018-11-25T09:11:07.474Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;移动端适配及动态rem方案&lt;br&gt;
-    
-    </summary>
-    
-    
-      <category term="响应式 rem" scheme="http://yoursite.com/tags/%E5%93%8D%E5%BA%94%E5%BC%8F-rem/"/>
     
   </entry>
   
