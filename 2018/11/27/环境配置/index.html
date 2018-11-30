@@ -126,19 +126,17 @@
 
 
 
-<meta name="description" content="基础git操作">
+<meta name="description" content="mac环境配置">
 <meta property="og:type" content="article">
-<meta property="og:title" content="git操作命令">
-<meta property="og:url" content="http://yoursite.com/2018/11/26/git操作命令/index.html">
+<meta property="og:title" content="环境配置">
+<meta property="og:url" content="http://yoursite.com/2018/11/27/环境配置/index.html">
 <meta property="og:site_name" content="Joyce">
-<meta property="og:description" content="基础git操作">
+<meta property="og:description" content="mac环境配置">
 <meta property="og:locale" content="en">
-<meta property="og:image" content="https://wx4.sinaimg.cn/large/9f1d2bbagy1fxmrcy11imj21t01e8all.jpg">
-<meta property="og:updated_time" content="2018-11-30T09:11:45.832Z">
+<meta property="og:updated_time" content="2018-11-29T02:06:01.835Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="git操作命令">
-<meta name="twitter:description" content="基础git操作">
-<meta name="twitter:image" content="https://wx4.sinaimg.cn/large/9f1d2bbagy1fxmrcy11imj21t01e8all.jpg">
+<meta name="twitter:title" content="环境配置">
+<meta name="twitter:description" content="mac环境配置">
 
 
 
@@ -168,13 +166,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/2018/11/26/git操作命令/"/>
+  <link rel="canonical" href="http://yoursite.com/2018/11/27/环境配置/"/>
 
 
 
 
 
-  <title>git操作命令 | Joyce</title>
+  <title>环境配置 | Joyce</title>
   
 
 
@@ -336,7 +334,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/11/26/git操作命令/">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/11/27/环境配置/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Joyce">
@@ -353,7 +351,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">git操作命令</h1>
+          <h1 class="post-title" itemprop="name headline">环境配置</h1>
         
 
         <div class="post-meta">
@@ -365,8 +363,8 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-11-26T11:42:28+08:00">
-                2018-11-26
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-11-27T20:18:32+08:00">
+                2018-11-27
               </time>
             
 
@@ -399,7 +397,7 @@
                   <span class="post-meta-item-text">Words count in article&#58;</span>
                 
                 <span title="Words count in article">
-                  589
+                  521
                 </span>
               
 
@@ -424,15 +422,19 @@
       
 
       
-        <p>基础git操作<br><a id="more"></a></p>
-<h2 id="ssh公钥"><a href="#ssh公钥" class="headerlink" title="ssh公钥"></a>ssh公钥</h2><p>查看本机是否有ssh公钥，通常一个主机对应一个密钥<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> ~/.ssh</span><br><span class="line">$ ls</span><br></pre></td></tr></table></figure></p>
-<p>通常.pub后缀的文件就是公钥</p>
-<p>创建ssh公钥<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ ssh-keygen</span><br></pre></td></tr></table></figure></p>
-<p>查看本机ssh公钥<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ cat ~/.ssh/id_rsa.pub</span><br></pre></td></tr></table></figure></p>
-<h2 id="git-status查看工作区状态"><a href="#git-status查看工作区状态" class="headerlink" title="git status查看工作区状态"></a>git status查看工作区状态</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># git status</span></span><br><span class="line">- 存在未跟踪文件</span><br><span class="line">On branch master</span><br><span class="line">Untracked files:</span><br><span class="line">  (use <span class="string">"git add &lt;file&gt;..."</span> to include <span class="keyword">in</span> what will be committed)</span><br><span class="line"></span><br><span class="line">        README</span><br><span class="line"></span><br><span class="line">nothing added to commit but untracked files present (use <span class="string">"git add"</span> to track)</span><br><span class="line"></span><br><span class="line">- 将未跟踪文件加入跟踪</span><br><span class="line">$ git add README</span><br><span class="line">再次执行$ git status</span><br><span class="line">On branch master</span><br><span class="line">Changes to be committed:</span><br><span class="line">  (use <span class="string">"git reset HEAD &lt;file&gt;..."</span> to unstage)</span><br><span class="line"></span><br><span class="line">        new file:   README</span><br><span class="line">此时该文件为暂存状态</span><br><span class="line"></span><br><span class="line">- 存在已修改文件</span><br><span class="line">$ git status</span><br><span class="line">On branch master</span><br><span class="line">Changes not staged <span class="keyword">for</span> commit:</span><br><span class="line">  (use <span class="string">"git add &lt;file&gt;..."</span> to update what will be committed)</span><br><span class="line">  (use <span class="string">"git checkout -- &lt;file&gt;..."</span> to discard changes <span class="keyword">in</span> working directory)</span><br><span class="line"></span><br><span class="line">        modified:   index.html</span><br><span class="line">说明已跟踪文件内容发生变化，但还未放入暂存区</span><br><span class="line"></span><br><span class="line">- 将已修改文件加入暂存区</span><br><span class="line">$ git add index.htm</span><br><span class="line">再次执行$ git status</span><br><span class="line">On branch master</span><br><span class="line">Changes to be committed:</span><br><span class="line">  (use <span class="string">"git reset HEAD &lt;file&gt;..."</span> to unstage)</span><br><span class="line"></span><br><span class="line">        new file:   README</span><br><span class="line">        modified:   index.html</span><br><span class="line">这时存在一个新增文件和一个改动过的文件，它们都已暂存，下次commit会一并提交到仓库</span><br><span class="line"></span><br><span class="line">- 工作目录干净，不存在未跟踪或修改过的文件</span><br><span class="line">On branch master</span><br><span class="line">Your branch is up to date with <span class="string">'origin/master'</span>.</span><br><span class="line">nothing to commit, working tree clean</span><br></pre></td></tr></table></figure>
-<h2 id="常见操作"><a href="#常见操作" class="headerlink" title="常见操作"></a>常见操作</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 从已跟踪文件清单中移除（即暂缓区），然后提交</span></span><br><span class="line">$ git rm</span><br><span class="line"></span><br><span class="line"><span class="comment"># 移动文件（前一个文件是要移动的文件，后一个是移动后的文件）</span></span><br><span class="line">$ git mv file_from file_to</span><br><span class="line">这一部相当于运行了下面三步：</span><br><span class="line">$ mv README.txt README</span><br><span class="line">$ git rm README.txt</span><br><span class="line">$ git add README</span><br><span class="line"></span><br><span class="line"><span class="comment"># 查看历史提交记录</span></span><br><span class="line">$ git <span class="built_in">log</span> -l 3  // l指list，后跟想要查看的历史记录条目数</span><br></pre></td></tr></table></figure>
-<h2 id="撤销上一次的commit"><a href="#撤销上一次的commit" class="headerlink" title="撤销上一次的commit"></a>撤销上一次的commit</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 查看提交记录，找到上次提交的 commit id</span></span><br><span class="line">$ git <span class="built_in">log</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 撤销，使代码恢复到前一次 commit id 对应的版本</span></span><br><span class="line">$ git reset --hard 748f409386c9fb1f4a51f29a45bad6bff24bf284</span><br><span class="line"></span><br><span class="line"><span class="comment"># 撤销，但不对代码修改进行撤销，仍可以通过 git commit 重新提交对本地代码的修改</span></span><br><span class="line">$ git reset 748f409386c9fb1f4a51f29a45bad6bff24bf284</span><br></pre></td></tr></table></figure>
-<p><img src="https://wx4.sinaimg.cn/large/9f1d2bbagy1fxmrcy11imj21t01e8all.jpg" alt="image"></p>
+        <p>mac环境配置<br><a id="more"></a></p>
+<h2 id="开发环境"><a href="#开发环境" class="headerlink" title="开发环境"></a>开发环境</h2><h3 id="允许安装不安全的软件"><a href="#允许安装不安全的软件" class="headerlink" title="允许安装不安全的软件"></a>允许安装不安全的软件</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ sudo spctl --master-disable</span><br></pre></td></tr></table></figure>
+<h3 id="Homebrew"><a href="#Homebrew" class="headerlink" title="Homebrew"></a>Homebrew</h3><p>安装软件包管理系统，它简化了Mac OS X系统上的软件安装过程<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ /usr/bin/ruby -e &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;</span><br><span class="line">- /usr/bin/ruby -e：使用ruby环境运行</span><br><span class="line">- curl -fsSL：使用curl命令下载</span><br></pre></td></tr></table></figure></p>
+<h3 id="oh-my-zsh"><a href="#oh-my-zsh" class="headerlink" title="oh my zsh"></a>oh my zsh</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ zsh  --version  // 安装前先查看版本</span><br><span class="line">$ brew install zsh  // 安装zsh</span><br><span class="line">$ sh -c &quot;$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)&quot;  // 使用oh-my-zsh让zsh更加强大</span><br></pre></td></tr></table></figure>
+<p>还可以安装一些oh-my-zsh的插件：<a href="https://github.com/wting/autojump/" title="autojump" target="_blank" rel="noopener">autojump</a></p>
+<h3 id="nodejs"><a href="#nodejs" class="headerlink" title="nodejs"></a>nodejs</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ brew install node  // 安装node后会自动安装npm（node package manager），用来搜索、下载、管理 Node.js 相关套件</span><br></pre></td></tr></table></figure>
+<p>如果未安装Homebrew，nodejs下载传送：<a href="https://nodejs.org/zh-cn/download/" title="nodejs" target="_blank" rel="noopener">nodejs</a></p>
+<h3 id="vim"><a href="#vim" class="headerlink" title="vim"></a>vim</h3><p>vim 是 Unix/Linux 终端自带的，macOS也有。它带有很多快捷键，死记硬背不如实际多用:)<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">:q! 不保存直接退出</span><br><span class="line">:wq 保存后退出</span><br></pre></td></tr></table></figure></p>
+<h3 id="git"><a href="#git" class="headerlink" title="git"></a>git</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">$ brew install git</span><br><span class="line"></span><br><span class="line"># git配置文件目录</span><br><span class="line">~/.gitconfig</span><br><span class="line"></span><br><span class="line"># 基本配置</span><br><span class="line">git config --global user.name &quot;joyce&quot;</span><br><span class="line">git config --global user.email &quot;jayce_ma.xa@foxmail.com&quot;</span><br><span class="line">git config --global color.ui true</span><br><span class="line">git config --global core.editor &quot;vim&quot;  # 设置Editor使用vim</span><br><span class="line">git config --global core.quotepath false # 设置显示中文文件名</span><br></pre></td></tr></table></figure>
+<h2 id="终端命令"><a href="#终端命令" class="headerlink" title="终端命令"></a>终端命令</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">$ say xxx  读单词</span><br><span class="line">$ pwd  显示当前目录的路径名</span><br><span class="line">$ cd /  返回根目录</span><br><span class="line">$ cd -  返回上一级目录</span><br><span class="line">$ man xxx  查看命令的详细帮助</span><br><span class="line">$ rm xxx  删除文件</span><br><span class="line">$ rm -rf xxx  删除文件夹</span><br></pre></td></tr></table></figure>
+<p>我的另一篇博客：<a href="https://jaycemxy.github.io/2018/08/28/%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/" title="命令行基础操作" target="_blank" rel="noopener">命令行基础操作</a></p>
+<h2 id="VSCode快捷键"><a href="#VSCode快捷键" class="headerlink" title="VSCode快捷键"></a>VSCode快捷键</h2><h3 id="编辑器与窗口"><a href="#编辑器与窗口" class="headerlink" title="编辑器与窗口"></a>编辑器与窗口</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"># 打开一个新窗口 Cmd + Shift + N</span><br><span class="line"># 关闭窗口 Cmd + Shift + W</span><br><span class="line"></span><br><span class="line"># 新建文件 Cmd + N</span><br><span class="line"># 关闭文件 Cmd + W</span><br><span class="line"># 同一编辑器下文件相互切换 control + tab</span><br><span class="line"></span><br><span class="line"># 多个编辑器之间切换 Cmd + ~</span><br><span class="line"># 控制左侧边栏显隐 Cmd + B</span><br></pre></td></tr></table></figure>
+<h3 id="编辑代码"><a href="#编辑代码" class="headerlink" title="编辑代码"></a>编辑代码</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"># 复制，如果未选择文本则复制整行 Cmd + c</span><br><span class="line"># 剪切，如果未选中文本则剪切整行 Cmd + x</span><br><span class="line"></span><br><span class="line"># 移动整行 alt + ↑/↓</span><br></pre></td></tr></table></figure>
 
       
     </div>
@@ -457,8 +459,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2018/11/25/grid布局/" rel="next" title="grid布局">
-                <i class="fa fa-chevron-left"></i> grid布局
+              <a href="/2018/11/26/git操作命令/" rel="next" title="git操作命令">
+                <i class="fa fa-chevron-left"></i> git操作命令
               </a>
             
           </div>
@@ -466,10 +468,6 @@
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
-            
-              <a href="/2018/11/27/环境配置/" rel="prev" title="环境配置">
-                环境配置 <i class="fa fa-chevron-right"></i>
-              </a>
             
           </div>
         </div>
@@ -651,7 +649,7 @@ show_date_time();
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#ssh公钥"><span class="nav-number">1.</span> <span class="nav-text">ssh公钥</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#git-status查看工作区状态"><span class="nav-number">2.</span> <span class="nav-text">git status查看工作区状态</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#常见操作"><span class="nav-number">3.</span> <span class="nav-text">常见操作</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#撤销上一次的commit"><span class="nav-number">4.</span> <span class="nav-text">撤销上一次的commit</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#开发环境"><span class="nav-number">1.</span> <span class="nav-text">开发环境</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#允许安装不安全的软件"><span class="nav-number">1.1.</span> <span class="nav-text">允许安装不安全的软件</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Homebrew"><span class="nav-number">1.2.</span> <span class="nav-text">Homebrew</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#oh-my-zsh"><span class="nav-number">1.3.</span> <span class="nav-text">oh my zsh</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#nodejs"><span class="nav-number">1.4.</span> <span class="nav-text">nodejs</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#vim"><span class="nav-number">1.5.</span> <span class="nav-text">vim</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#git"><span class="nav-number">1.6.</span> <span class="nav-text">git</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#终端命令"><span class="nav-number">2.</span> <span class="nav-text">终端命令</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#VSCode快捷键"><span class="nav-number">3.</span> <span class="nav-text">VSCode快捷键</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#编辑器与窗口"><span class="nav-number">3.1.</span> <span class="nav-text">编辑器与窗口</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#编辑代码"><span class="nav-number">3.2.</span> <span class="nav-text">编辑代码</span></a></li></ol></li></ol></div>
             
 
           </div>
